@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/capabhay" target="blank"><img src="https://img.shields.io/twitter/follow/capabhay?logo=twitter&style=for-the-badge" alt="capabhay" /></a> </p>
 
 - 🌱 I’m currently learning **SQL,Devops and Software engineering**
-- - ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
