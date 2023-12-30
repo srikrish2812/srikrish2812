@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*gMJz6v4nQNXXxbDgYuynGg.gif)
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A data enthusiast - Exploring different data-related fields</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikrish2812&label=Profile%20views&color=0e75b6&style=flat" alt="srikrish2812" /> </p>
 
