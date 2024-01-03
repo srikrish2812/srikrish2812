@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SQL <br>⚡ Fun fact, I am batman!
+🌱 I’m currently learning Postgres <br>⚡ Fun fact, I am batman!
 
 
 ## 🌐 Socials:
