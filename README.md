@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning PostgreSQL <br>⚡ Fun fact, I am batman!
+I am Abhay.
 
 
 ## 🌐 Socials:
