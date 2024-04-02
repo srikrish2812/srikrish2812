@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abhay studying MSIS:ML at the University of Arizona.
+I am Abhay. You know me.
 
 
 ## 🌐 Socials:
