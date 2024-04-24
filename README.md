@@ -21,6 +21,8 @@ I am Abhay. You know me!
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=srikrish2812&icon=5&color=8)](https://visitcount.itsvg.in)
 
