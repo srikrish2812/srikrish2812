@@ -22,7 +22,9 @@ I am Abhay. You know me!
 <!--img src='https://randommeme-five.vercel.app/' style="height: 400px;"/-->
 
 ## 😂 Here's some developer wisdom to brighten up your day
-[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)-->
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srikrish2812&icon=5&color=8)](https://visitcount.itsvg.in)
