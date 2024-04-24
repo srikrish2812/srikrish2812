@@ -19,7 +19,7 @@ I am Abhay. You know me!
 ![](https://github-contributor-stats.vercel.app/api?username=srikrish2812&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>>
 
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
