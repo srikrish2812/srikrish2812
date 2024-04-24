@@ -21,7 +21,7 @@ I am Abhay. You know me!
 <!--### 😂 Random Dev Meme-->
 <!--img src='https://randommeme-five.vercel.app/' style="height: 400px;"/-->
 
-## Here's some developer wisdom to brighten up your day
+## 😂 Here's some developer wisdom to brighten up your day
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
