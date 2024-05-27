@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Abhay. You know me!
+I am Abhay, an aspiring data professional. I am pursuing MS in Information Science with a specialization in Machine Learning from the University of Arizona. I did my BTech in Electrical Engineering(EE) from IIT, Tirupati. 
+During my bachelors I worked as a research intern in the Signal Processing and Computer Vision (SPCV) lab of IIT, TIruapti. My research focused on developing a novel deep-learning based to detect small objects especially drones.
 
 
 ## 🌐 Socials:
