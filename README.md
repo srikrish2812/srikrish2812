@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abhay, an aspiring data professional. I am pursuing MS in Information Science with a specialization in Machine Learning from the University of Arizona. I did my BTech in Electrical Engineering(EE) from IIT, Tirupati. 
+I am Abhay, pursuing MS in Information Science with a specialization in Machine Learning from the University of Arizona. I did my BTech in Electrical Engineering(EE) from IIT, Tirupati. 
 During my bachelors I worked as a research intern in the Signal Processing and Computer Vision (SPCV) lab of IIT, Tiruapti. My research focused on developing a novel deep-learning based method to detect small objects especially drones. I am proficient in combining classical and deep-learning methods to achieve better performance and accuracy.
 
 
