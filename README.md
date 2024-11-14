@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Abhay, pursuing MS in Information Science with a specialization in Machine Learning from the University of Arizona. I did my BTech in Electrical Engineering(EE) from IIT, Tirupati. 
-During my bachelors I worked as a research intern in the Signal Processing and Computer Vision (SPCV) lab of IIT, Tiruapti. My research focused on developing a novel deep-learning based method to detect small objects especially drones. I am proficient in combining classical and deep-learning methods to achieve better performance and accuracy.
+I am Abhay, pursuing MS in Information Science with a specialization in Machine Learning from the University of Arizona. I did my BTech in Electrical Engineering(EE) from IIT, Tirupati. During my bachelors I worked as a Computer Vision Research intern in the Visual Information and Signal Analysis Lab(ViSAL) of IIT, Tiruapti under the Professor Dr RamaKrishna Gorthi. My research focused on developing a novel deep-learning based method to detect small objects especially drones. I am proficient in combining classical and deep-learning methods to achieve better performance and accuracy.
 
 
 ## 🌐 Socials:
