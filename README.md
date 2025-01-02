@@ -28,5 +28,5 @@ I am Abhay, pursuing MS in Information Science: Machine Learning at the Universi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srikrish2812&icon=5&color=8)](https://visitcount.itsvg.in)
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
