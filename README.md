@@ -31,5 +31,5 @@ I am Abhay, pursuing MS in Information Science: Machine Learning at the Universi
 ---
 [![](https://visitcount.itsvg.in/api?id=srikrish2812&icon=5&color=8)](https://visitcount.itsvg.in)
 ## The 3D profile contributions graph updates every 8 hours
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
