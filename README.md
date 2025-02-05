@@ -4,7 +4,7 @@
 - I also worked as an AI Engineer and built an agentic RAG application capable of interacting with relational databases, non-relational databases, PDFs and CSVs too.
 - I have experience in building agentic applications using open-source models on HuggingFace as well as OpenAI APIs.
 - I did my Bachelors in Electrical Engineering at IIT-Tirupati where I got to know the true potential and applications of ML and DL from a signal processing perspective
-- I developed an affinity towards Computer Vision and Deep Learning during my bachelors days and was fortunate enough to work in the [ViSAL](https://sites.google.com/iittp.ac.in/ee-spcv-lab/people/faculty) lab under the guidance and mentorship of (Dr RamaKrishna Gorthi)[https://ee.iittp.ac.in/Faculty_Rkg.html]
+- I developed an affinity towards Computer Vision and Deep Learning during my bachelors days and was fortunate enough to work in the [ViSAL](https://sites.google.com/iittp.ac.in/ee-spcv-lab/people/faculty) lab under the guidance and mentorship of (Dr RamaKrishna Gorthi)[[https://ee.iittp.ac.in/Faculty_Rkg.html](https://sites.google.com/view/ramakrishnasaigorthi/Home)]
 - During my bachelors, I developed an efficient data augmentation method for detecting drones by integrating classical computer vision and deep learning methods
 
 
