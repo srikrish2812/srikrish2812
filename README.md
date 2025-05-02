@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am Abhay, studying MS in Information Science: Machine Learning at the University of Arizona. I am interested in Math, ML, Software Engineering and Poetry(not python poetry 😁)
+- I am Abhay, studying MS in Information Science: Machine Learning at the University of Arizona. I am interested in Math, ML, ML Systems, CV, NLP and Poetry(not python poetry 😁)
 - Currently, I am working as a Graduate Research Assistant in the Deep Target NLP Research Group under the guidance of [Dr Gondy Leroy](https://eller.arizona.edu/people/gondy-leroy)
 - I also worked as an AI Engineer and built an agentic RAG application capable of interacting with relational databases, non-relational databases, PDFs and CSVs too.
 - I have experience in building agentic applications using open-source models on HuggingFace as well as OpenAI APIs.
