@@ -1,6 +1,6 @@
 # 💫 About Me:
-- I am Abhay, studying MS in Information Science: Machine Learning at the University of Arizona. I am interested in Math, ML, ML Systems, CV, NLP and Poetry(not python poetry 😁)
-- Currently, I am working as a Graduate Research Assistant in the Deep Target NLP Research Group under the guidance of [Dr Gondy Leroy](https://eller.arizona.edu/people/gondy-leroy)
+- I am Abhay, a PhD student in the Intelligent Systems Program at Pitt. I am interested in Statistics, Deep Learning, ML Systems, CV, NLP and Poetry(not python poetry 😁). I am grateful to work in the Intelligent Computing for Clinical Imaging(ICCI) lab, advised by [Dr Shandong Wu](https://www.aimi.pitt.edu/people/ant-26).
+- I did my MS in Information Science: Machine Learning at the University of Arizona. During this time, I got the opportunity to work as a Graduate Research Assistant in the Deep Target NLP Research Group under the guidance of [Dr Gondy Leroy](https://eller.arizona.edu/people/gondy-leroy). 
 - I also worked as an AI Engineer and built an agentic RAG application capable of interacting with relational databases, non-relational databases, PDFs and CSVs too.
 - I have experience in building agentic applications using open-source models on HuggingFace as well as OpenAI APIs.
 - I did my Bachelors in Electrical Engineering at IIT-Tirupati where I got to know the true potential and applications of ML and DL from a signal processing perspective
