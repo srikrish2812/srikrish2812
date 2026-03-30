@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am Abhay, PhD student in the Intelligent Systems Program at Pitt, grateful to work in the Intelligent Computing for Clinical Imaging(ICCI) lab, advised by [Dr Shandong Wu](https://www.aimi.pitt.edu/people/ant-26). I do research in multimodal machine learning, representation learning, VLMs in biomedical domain.
+- I am Abhay, PhD student in the Intelligent Systems Program at Pitt, grateful to work in the Intelligent Computing for Clinical Imaging(ICCI) lab, advised by [Dr Shandong Wu](https://www.aimi.pitt.edu/people/ant-26). I do research in multimodal machine learning, representation learning, VLMs in biomedical imaging/NLP domain.
 - Broadly, my interests are DL, RL, ML Systems, and Agentic AI. 
 - I did my MS in Information Science: Machine Learning at the University of Arizona. During this time, I got the opportunity to work as a Graduate Research Assistant in the Deep Target NLP Research Group under the guidance of [Dr Gondy Leroy](https://eller.arizona.edu/people/gondy-leroy). 
 - I also worked as an AI Engineer and built an agentic RAG application to interact with relational databases, non-relational databases, PDFs and CSVs.
